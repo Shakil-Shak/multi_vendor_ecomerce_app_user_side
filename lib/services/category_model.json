@@ -1,0 +1,75 @@
+{
+    "categories":[
+
+        {
+            "name":"Women",
+            "subcategory":[
+                "Dress",
+                "Tops",
+                "Watches",
+                "Shoes",
+                "Bags"
+            ]
+        },
+        {
+            "name":"Men",
+            "subcategory":[
+                "Shirt",
+                "Tshirt",
+                "Pants",
+                "Shoes",
+                "Watches"
+            ]
+        },
+        {
+            "name":"Computer & Laptops",
+            "subcategory":[
+                "Laptop",
+                "Desktop",
+                "Kyeboard",
+                "Mouse"
+            ]
+        },
+       
+        {
+            "name":"Baby & Kids",
+            "subcategory":[
+                "Dress",
+                "Shoes"
+                
+            ]
+        },
+        {
+            "name":"Sports",
+            "subcategory":[
+                "Ball",
+                "Bat",
+                "Joogers"
+            ]
+        },
+        {
+            "name":"Jewelery",
+            "subcategory":[
+                "Platinum",
+                "Diomond",
+                "Gold"
+            ]
+        },
+        {
+            "name":"Mobile Phones",
+            "subcategory":[
+                "Button Phone",
+                "Smart Phone",
+                "Tab"
+            ]
+        },
+        {
+            "name":"Furniture",
+            "subcategory":[
+                "Sofa",
+                "Bed",
+                "Table"
+            ]
+        }
+    ]
+}
