@@ -85,10 +85,10 @@ https://user-images.githubusercontent.com/92030900/229368651-3d595bf1-f6f4-488e-
 <h3>Product details page 2</h2>
 <img src="https://user-images.githubusercontent.com/92030900/229369423-96e4a63a-432c-4280-b698-07f9ed5c0eb3.jpg" width="250" height="500">
 
-<h3>Cart page(User 1)</h2>
-<img src="https://user-images.githubusercontent.com/92030900/229369622-556a9281-f6e0-4349-8530-3a7780985fea.jpg" width="250" height="500">
+<h3>Cart page</h2>
+<img src="https://user-images.githubusercontent.com/92030900/229370202-5834048f-d85f-444d-8b51-f6931bb3e4e4.jpg" width="250" height="500">
 
-<h3>Shipping details page(User 2)</h2>
+<h3>Shipping details page</h2>
 <img src="https://user-images.githubusercontent.com/92030900/229369632-e616ee81-9eca-4666-8037-cd320574d535.jpg" width="250" height="500">
 
 <h3>Profile info page</h2>
@@ -119,4 +119,5 @@ https://user-images.githubusercontent.com/92030900/229368651-3d595bf1-f6f4-488e-
 <img src="https://user-images.githubusercontent.com/92030900/229369738-4f2cfac8-de2d-4701-9ca3-84cb46315a38.jpg" width="250" height="500">
 
 
+![Screenshot_2023-04-02-22-15-26-64_f07a298b6198a0741a0b3130973f4fdf]()
 
