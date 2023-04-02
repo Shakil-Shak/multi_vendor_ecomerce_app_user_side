@@ -2,32 +2,7 @@
 
 # About Project -
 
-<h3>Introduction -</h3>
-<h4>With this translator chat app, we can easily chat with foreigners in
-different languages. The sender will send the message in one
-language and the receiver will get this message in another
-language. User can also select their language.</h2>
-
-<h3>Detail attributes -</h3>
-<ol>
-  <li>First there have signIn and signUp part. User can create account
-by their name and email address. User also set profile picture. All
-data will be store to firebase database. Then by using this data
-user can login to their account.</li> 
-  <li>There have searching option so thay user can easily find their
-friend account and chat with them.</li>
-  <li>User can see his profile information such as his name, mail and
-profile photo. All data will retrieve from firebase database.</li>
-  <li>When user select an account he can send message and can see
-friends messages.</li>
-  <li>User can select language from popup menu. When other user
-send message the message will convert to selected language and
-the converted message will show in the chat.</li>
-  <li>The original message firstly go to the translator API. The api will
-check the message and the formate of message. If all is ok the api
-wiil convert the message and it store to the firebase realtime
-database and it goes to the user chat box.</li>
-</ol>
+<h4>This is Ecomerce app where user can buy products</h2>
 
 
 ##  Components Used :
@@ -118,6 +93,4 @@ https://user-images.githubusercontent.com/92030900/229368651-3d595bf1-f6f4-488e-
 <h3>Product search page</h2>
 <img src="https://user-images.githubusercontent.com/92030900/229369738-4f2cfac8-de2d-4701-9ca3-84cb46315a38.jpg" width="250" height="500">
 
-
-![Screenshot_2023-04-02-22-15-26-64_f07a298b6198a0741a0b3130973f4fdf]()
 
